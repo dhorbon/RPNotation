@@ -12,3 +12,4 @@ C:\Users\Szymon\source\repos\RPNotation\RPNotation\RPNotation\obj\Debug\net8.0\r
 C:\Users\Szymon\source\repos\RPNotation\RPNotation\RPNotation\obj\Debug\net8.0\RPNotation.pdb
 C:\Users\Szymon\source\repos\RPNotation\RPNotation\RPNotation\obj\Debug\net8.0\RPNotation.genruntimeconfig.cache
 C:\Users\Szymon\source\repos\RPNotation\RPNotation\RPNotation\obj\Debug\net8.0\ref\RPNotation.dll
+C:\Users\Szymon\source\repos\RPNotation\RPNotation\RPNotation\obj\Debug\net8.0\RPNotation.sourcelink.json
